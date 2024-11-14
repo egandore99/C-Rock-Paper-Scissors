@@ -1,1 +1,2 @@
-# C-Rock-Paper-Scissors
+# C#-Rock-Paper-Scissors
+This is a simple Rock-Paper-Scissors game created with C# and .NET. The player faces off against the computer by choosing between Rock, Paper, or Scissors. The game provides feedback on each round, declaring a win, loss, or draw, and allows players to replay as many rounds as they like. A fun and interactive way to practice C# fundamentals, including conditionals, loops, and randomization.
